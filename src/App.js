@@ -38,7 +38,7 @@ class App extends React.Component {
       <>
       <Row>
         <Col sm={4}></Col>
-        <Col sm={1}>
+        <Col sm={2}>
        <Icon   path={mdiBookOpenPageVariant} size={5} title="Booklist" color="#007bff" />
        </Col>
        <Col>
