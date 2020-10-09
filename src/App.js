@@ -40,14 +40,15 @@ class App extends React.Component {
 
 
       <Row>
-        
-        <Col sm={6}>
+        <Col sm={4}></Col>
+        <Col sm={1}>
        <Icon   path={mdiBookOpenPageVariant} size={5} title="Booklist" color="#007bff" />{'  '}
        </Col>
        <Col>
-          <h1 sm={6} > My<span className="color">Book</span>List</h1>
+       <br/><br/>
+          <h1 sm={2} > My<span className="color">Book</span>List</h1>
           </Col>
-        
+          <Col sm={4}></Col>
           </Row>
           <br/>
           <br/>
