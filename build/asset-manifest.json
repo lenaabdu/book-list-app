@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/book-list-app/static/css/main.bf6a735e.chunk.css",
+    "main.js": "/book-list-app/static/js/main.1f1ba97b.chunk.js",
+    "main.js.map": "/book-list-app/static/js/main.1f1ba97b.chunk.js.map",
+    "runtime-main.js": "/book-list-app/static/js/runtime-main.e9857e01.js",
+    "runtime-main.js.map": "/book-list-app/static/js/runtime-main.e9857e01.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/book-list-app/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.26d71bc5.chunk.js": "/book-list-app/static/js/2.26d71bc5.chunk.js",
+    "static/js/2.26d71bc5.chunk.js.map": "/book-list-app/static/js/2.26d71bc5.chunk.js.map",
+    "index.html": "/book-list-app/index.html",
+    "precache-manifest.501fafc1dc93ede7139e908c3478cc22.js": "/book-list-app/precache-manifest.501fafc1dc93ede7139e908c3478cc22.js",
+    "service-worker.js": "/book-list-app/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/book-list-app/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.bf6a735e.chunk.css.map": "/book-list-app/static/css/main.bf6a735e.chunk.css.map",
+    "static/js/2.26d71bc5.chunk.js.LICENSE.txt": "/book-list-app/static/js/2.26d71bc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9857e01.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.26d71bc5.chunk.js",
+    "static/css/main.bf6a735e.chunk.css",
+    "static/js/main.1f1ba97b.chunk.js"
+  ]
+}
